@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intentimplicito</string>
+    <string name="btn">intent1</string>
+    <string name="btn2">marcar</string>
+    <string name="btn3">navegador</string>
+    <string name="btn4">Galeria de Imagenes</string>
+    <string name="btn5">Camara</string>
+    <string name="btn6">Send</string>
+    <string name="btn7">Play Store</string>
+</resources>
